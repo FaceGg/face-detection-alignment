@@ -2,7 +2,7 @@
  
 ## Requirement
 
-python & opencv 
+python & opencv & numpy
 
 
 
